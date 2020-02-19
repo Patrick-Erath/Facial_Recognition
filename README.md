@@ -10,4 +10,4 @@ For this experiment, we used SIFT to detect keypoints. Using the implemented SIF
 Then, we extracted the HoG features for each patch, and used it to compute the Bag Of Words for for a given image.
 
 ### Results
-<img src="">
+<img src="group16_results.png">
